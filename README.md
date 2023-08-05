@@ -2,7 +2,7 @@
 
 ## Senior Full-Stack Developer | .NET | C# | Angular | React
 
-## Active Code Hours [![wakatime](https://wakatime.com/badge/user/7ccce1c4-517b-4ed8-842a-5c3addc7ee7d.svg)](https://wakatime.com/@7ccce1c4-517b-4ed8-842a-5c3addc7ee7d) since Feb 9 2023 👋
+I am a results-driven Full Stack Developer with expertise in Angular, TypeScript, React, C#, and .NET technologies. I am dedicated to crafting user-focused websites and applications, optimizing them to achieve competitive advantage and revenue growth for businesses. With a logical and analytical approach, I excel at problem-solving and creating innovative solutions. My calm and focused demeanor allows me to work effectively in collaborative environments, ensuring seamless functionality and exceptional user experiences in every project. Passionate about staying current with industry trends, I am committed to delivering cutting-edge solutions that exceed expectations
 
 ## About Me
 - 🌍  
