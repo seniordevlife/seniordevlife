@@ -20,11 +20,12 @@ I am a results-driven Full Stack Developer with expertise in Angular, TypeScript
 ## Skills
 
 ### Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seniortechdev&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
-
 [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seniortechdev&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight)
+
 
 ### Technologies
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
