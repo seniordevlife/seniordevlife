@@ -25,10 +25,3 @@ I am a results-driven Full Stack Developer with expertise in Angular, TypeScript
 [![Angular](https://img.shields.io/badge/-Angular-900603?logo=angular&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 
-## Socials
-
-
-<a href="https://ra1nbow.xyz?ref=github">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=seniordevlife&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true&line_height=28&icon_color=fff&text_color=fff&bg_color=-45deg,ee82ee,9400d3,4b0082,0000ff&hide_border=true" />
-</a>
-
