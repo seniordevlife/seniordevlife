@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ## Senior Full-Stack Developer | .NET | C# | Angular | React
+
+### Hi there 👋
 
 I am a results-driven Full Stack Developer with expertise in Angular, TypeScript, React, C#, and .NET technologies. I am dedicated to crafting user-focused websites and applications, optimizing them to achieve competitive advantage and revenue growth for businesses. With a logical and analytical approach, I excel at problem-solving and creating innovative solutions. My calm and focused demeanor allows me to work effectively in collaborative environments, ensuring seamless functionality and exceptional user experiences in every project. Passionate about staying current with industry trends, I am committed to delivering cutting-edge solutions that exceed expectations
 
