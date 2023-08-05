@@ -7,7 +7,7 @@ I am a results-driven Full Stack Developer with expertise in Angular, TypeScript
 <br />
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniortechdev&theme=chalk&column=4" alt="seniortechdev" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniordevlife&theme=chalk&column=4" alt="seniordevlife" /></a>
 </p>
 
 ## About Me
