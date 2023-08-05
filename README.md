@@ -17,14 +17,13 @@ I am a results-driven Full Stack Developer with expertise in Angular, TypeScript
 
 [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 
 ### Technologies
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
-[![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
+[![C#]((https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white))](https://ra1nbow.xyz?ref=github)
 
 ## Socials
 
