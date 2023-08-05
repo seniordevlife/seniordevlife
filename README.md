@@ -28,7 +28,6 @@
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marvin-odhiambo/)
 
 <a href="https://ra1nbow.xyz?ref=github">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=seniordevlife&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true&line_height=28&icon_color=fff&text_color=fff&bg_color=-45deg,ee82ee,9400d3,4b0082,0000ff&hide_border=true" />
