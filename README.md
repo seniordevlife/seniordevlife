@@ -22,7 +22,7 @@ I am a results-driven Full Stack Developer with expertise in Angular, TypeScript
 ### Technologies
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
-[![Angular](https://img.shields.io/badge/-Angular-61DAFB?logo=angular&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
+[![Angular](https://img.shields.io/badge/-Angular-900603?logo=angular&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic)](https://ra1nbow.xyz?ref=github)
 
 ## Socials
