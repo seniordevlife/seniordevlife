@@ -1,4 +1,4 @@
-## Senior Full-Stack Developer | .NET | C# | | Ruby | Angular | React 
+## Senior Full-Stack Developer | .NET | C#  | Angular | React 
 
 ### Hi there 👋
 
